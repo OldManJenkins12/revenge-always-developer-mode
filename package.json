@@ -1,0 +1,9 @@
+{
+	"name": "revenge-always-developer-mode",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"hash": "bun scripts/update-manifest.ts",
+		"serve": "python3 -m http.server 8080 --directory plugin"
+	}
+}

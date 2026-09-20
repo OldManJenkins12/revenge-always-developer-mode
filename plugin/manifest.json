@@ -1,0 +1,15 @@
+{
+	"name": "Always Developer Mode",
+	"description": "Keeps Discord's Developer Mode (Settings > Advanced) forced on, so custom themes can't turn it off.",
+	"authors": [
+		{
+			"name": "OldManJenkins12",
+			"id": "675724335159181332"
+		}
+	],
+	"main": "index.js",
+	"hash": "9fd0cb1d4c91d6dc400e8f159eba1bcf334d69f89d7493f3e920114edd04c501",
+	"vendetta": {
+		"icon": "WrenchIcon"
+	}
+}
