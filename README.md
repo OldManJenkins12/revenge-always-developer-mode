@@ -82,6 +82,8 @@ under the same URL prefix.
 This is an unofficial community plugin. It is not affiliated with Discord or the Revenge project.
 Modifying your Discord client may violate Discord's Terms of Service; use at your own risk.
 
+This project is also 100% vibe coded. I have tested for 1 week before making it public, and it works well, I have spotted no issues.
+
 ## License
 
 GPL-3.0. See [LICENSE](LICENSE).
